@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+*{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.img_fon{
+   border-radius:100px;
+   width: 15rem;
+   margin-top: 66px;
+   margin-left: 25px;
+    
+}
+
+.info {
+    background-color: rgb(131, 84, 175);
+    max-width: 435px;
+   
+    
+    
+}
+
+.image-wrapper{
+    padding: 66px;
+}
+
+.info_name{
+  font-size: 33px;
+    margin-left: 66px;
+    margin-top: 33px;
+    color: #fff;
+}
+.info_job{
+    margin-left: 66px;
+    margin-top: 16px;
+    color: #d7d7d7;
+}
+
+.info_data{
+    margin-left: 66px;
+    margin-top: 16px;
+}
+
+.info_item{
+    padding: 33px;
+    margin-top: 16px;
+    background-color:#fff ;
+    width: 40%;
+    border-radius: 50px;
+}
+
+.skills,.english,.social_media{
+    color: #fff;
+    
+}
+
+.title{
+    font-size: 33px;
+    margin-left: 66px;
+    
+}
+
+.skills{
+    margin-top: 16px;
+}
+
+.skills_list{
+    margin-left: 90px;
+}
+
+.english_list{
+    margin-left: 90px;
+    list-style-type: none;
+}
+.english_list,.skills_list,.title{
+    margin-top: 16px;
+}
+
+.social-media__icons{
+  
+    padding: 30px 90px 30px 10px;
+    display: flex;
+    
+}
+
+.social_img{
+    padding-left: 70px;
+    
+}
+
+.rigch_side{
+   margin: 50px 50px;
+}
+
+.abaut{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+
+.container {
+    display: flex;
+    position:absolute;
+
+}
+
+p{
+    color: black;
+    font-weight: 700px;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.Abaut{
+    
+    color:rgb(2, 2, 2)  ;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 700px;
+    font-size: 20px;
+    line-height: 20px;
+}
+a:hover{
+    transition: .5s;
+    color: rgb(131, 84, 175);
+
+}
+.education{
+    margin-top: 50px;
+}
+
+.education_list{
+    margin-top: 10px;
+}
+
+.abaut_text{
+    margin-top: 10px;
+}
